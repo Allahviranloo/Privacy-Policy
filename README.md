@@ -1,10 +1,10 @@
 # Privacy-Policy
 
-Assignly is a simple assignment tracking application designed for students.
+Submit-It is a simple assignment tracking application designed for students.
 
 Data Collection:
 
-Assignly does not collect, store, or share any personal data. All information entered into the app (such as assignments, courses, and due dates) is stored locally on your device.
+Submit-It does not collect, store, or share any personal data. All information entered into the app (such as assignments, courses, and due dates) is stored locally on your device.
 
 Notifications:
 
@@ -12,7 +12,7 @@ The app may use local notifications to remind you of upcoming assignments. These
 
 Third-Party Services:
 
-Assignly does not use third-party analytics, tracking tools, or external data collection services.
+Submit-It does not use third-party analytics, tracking tools, or external data collection services.
 
 Data Security:
 
@@ -20,7 +20,7 @@ Since all data is stored locally on your device, you are responsible for managin
 
 Usage:
 
-Assignly is provided as a free tool for personal use. While the app is designed to help you stay organized, the developer is not responsible for missed deadlines, data loss, or any issues resulting from use of the app.
+Submit-It is provided as a free tool for personal use. While the app is designed to help you stay organized, the developer is not responsible for missed deadlines, data loss, or any issues resulting from use of the app.
 
 Contact:
 
